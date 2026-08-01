@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Senaf Wondimmu
 
-# Hi there 👋, I'm Senaf
-
 💻 Software Engineering | Python & Kotlin Developer | Full-Stack Web Developer
 
 - 🔭 Building modern web & Android apps.
