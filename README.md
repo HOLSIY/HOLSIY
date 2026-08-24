@@ -1,19 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F172A,100:0284C7&text=SENAF%20WONDIMMU&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BUILDER%20%7C%20FOUNDER&descColor=7DD3FC&descAlignY=60&descSize=17&animation=fadeIn"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0F172A,55:075985,80:0EA5E9,100:22D3EE&text=SENAF%20WONDIMMU&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20FOUNDER&descColor=BAE6FD&descSize=17&descAlignY=63&animation=fadeIn"
+width="100%"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Android+%2B+Kotlin+Developer+%F0%9F%93%B1;AI+%26+Technology+Builder+%F0%9F%A4%96;Founder+of+AETORA+Technologies+%F0%9F%94%A5;BUILD+%E2%80%A2+LEARN+%E2%80%A2+SHIP"/>
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER+%F0%9F%92%BB;FULL-STACK+DEVELOPER+%F0%9F%9A%80;ANDROID+%2B+KOTLIN+DEVELOPER+%F0%9F%93%B1;AI+%26+TECHNOLOGY+BUILDER+%F0%9F%A4%96;FOUNDER+OF+AETORA+TECHNOLOGIES+%F0%9F%94%A5;BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+REPEAT"
+/>
 
 <br><br>
 
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&style=flat-square&color=0284C7"/>
+<img
+src="https://i.imgflip.com/65efzo.gif"
+height="150"
+/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -21,11 +28,13 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,ts,react,nextjs,nodejs,express,html,css,tailwind,firebase,mysql,git,github,androidstudio,vscode,figma&theme=dark&perline=9"/>
+<img
+src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,typescript,react,nextjs,nodejs,express,html,css,tailwind,firebase,mysql,git,github,androidstudio,vscode,figma&theme=dark&perline=9"
+/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -33,80 +42,110 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=NEXUS+%E2%80%94+Communication+Platform;AETORA+%E2%80%94+Technology+%26+Product+Development;AI-Powered+Applications;Android+%2B+Kotlin+Projects;Modern+Full-Stack+Products"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=750&lines=NEXUS+%E2%80%94+MODERN+COMMUNICATION+PLATFORM;AETORA+TECHNOLOGIES+%E2%80%94+DIGITAL+PRODUCTS;AI-POWERED+APPLICATIONS;ANDROID+%2B+KOTLIN+PROJECTS;MODERN+FULL-STACK+SYSTEMS"
+/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-## 📊 GITHUB
+## 📊 GITHUB ANALYTICS
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&count_private=true&include_all_commits=true" height="180"/>
+<img
+src="./profile/stats.svg"
+width="49%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=8" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=020617&border=1E293B&stroke=1E293B&ring=22D3EE&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+<img
+src="./profile/top-langs.svg"
+width="49%"
+/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-## 🐍 CONTRIBUTIONS
+## 🧊 3D CONTRIBUTION PROFILE
 
 <br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="./assets/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-
-</picture>
+<img
+src="./profile-3d-contrib/profile-green-animate.svg"
+width="100%"
+alt="3D GitHub Contribution Profile"
+/>
 
 </div>
+
+---
 
 <div align="center">
 
-## 📈 ACTIVITY
+## 🧠 CORE STACK
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=38BDF8&line=22D3EE&point=FFFFFF&area_color=0F172A&area=true&hide_border=true" width="100%" alt="GitHub Activity"/>
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img
+src="https://skillicons.dev/icons?i=androidstudio,kotlin"
+height="60"
+/>
+
+### MOBILE
+
+Android  
+Kotlin  
+Firebase
+
+</td>
+
+<td align="center" width="33%">
+
+<img
+src="https://skillicons.dev/icons?i=react,typescript,nodejs"
+height="60"
+/>
+
+### WEB
+
+React  
+TypeScript  
+Node.js
+
+</td>
+
+<td align="center" width="33%">
+
+<img
+src="https://skillicons.dev/icons?i=python,firebase"
+height="60"
+/>
+
+### AI
+
+Python  
+AI Systems  
+Automation
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-<br>
-
-<div align="center">
-
-## 💻 CORE STACK
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,kotlin,typescript,javascript,react,nodejs,firebase,mysql&theme=dark&perline=8"/>
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
@@ -114,28 +153,39 @@
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="https://github.com/HOLYSIY">
+<img
+src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"
+/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img
+src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"
+/>
 </a>
 
 <a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E879F9"/>
+<img
+src="https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=E879F9"
+/>
 </a>
 
 <a href="https://www.youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-020617?style=for-the-badge&logo=youtube&logoColor=FF4444"/>
+<img
+src="https://img.shields.io/badge/YOUTUBE-020617?style=for-the-badge&logo=youtube&logoColor=FF4444"
+/>
 </a>
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0284C7,50:0F172A,100:020617"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:22D3EE,40:0EA5E9,70:075985,100:020617"
+width="100%"
+/>
 
 </div>
