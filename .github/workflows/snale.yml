@@ -1,39 +1,33 @@
 name: Generate Contribution Snake
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-push:
-branches:
-- main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-generate:
-runs-on: ubuntu-latest
+  snake:
+    runs-on: ubuntu-latest
 
-```
-steps:
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  - name: Generate Snake
-    uses: Platane/snk/svg-only@v3
-    with:
-      github_user_name: ${{ github.repository_owner }}
-      outputs: |
-        dist/github-contribution-grid-snake.svg
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Publish Snake
-    uses: crazy-max/ghaction-github-pages@v5
-    with:
-      target_branch: output
-      build_dir: dist
-      commit_message: "Update contribution snake"
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+      - name: Save Snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "Update contribution snake"
+          git push
