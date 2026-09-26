@@ -13,10 +13,8 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=2
 
 <br><br>
 
-<img
-src="https://i.imgflip.com/65efzo.gif"
-height="150"
-/>
+
+
 
 </div>
 
