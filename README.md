@@ -50,41 +50,6 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=1
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
-
-<br>
-
-<img
-src="./profile/stats.svg"
-width="49%"
-/>
-
-<img
-src="./profile/top-langs.svg"
-width="49%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧊 3D CONTRIBUTION PROFILE
-
-<br>
-
-<img
-src="./profile-3d-contrib/profile-green-animate.svg"
-width="100%"
-alt="3D GitHub Contribution Profile"
-/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🧠 CORE STACK
 
